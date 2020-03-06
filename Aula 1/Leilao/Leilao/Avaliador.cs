@@ -8,13 +8,15 @@ namespace Leilao
 {
     class Avaliador
     {
-        private double maiorDeTodos = Double.MinValue;
-        private double menorDeTodos = Double.MaxValue;
+        private double maiorDeTodos;
+        private double menorDeTodos;
         public double MaiorLance { get; private set; }
         public double MenorLance { get; private set; }
         public void Avalia(Leilao leilao)
         {
-            foreach(var lance in leilao.Lances)
+            maiorDeTodos = leilao.Lances[0].Valor;
+            menorDeTodos = leilao.Lances[0].Valor;
+            foreach (var lance in leilao.Lances)
             {
                 if(lance.Valor > maiorDeTodos)
                 {

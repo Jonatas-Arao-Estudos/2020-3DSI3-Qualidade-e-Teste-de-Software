@@ -5,3 +5,10 @@ C:\Users\aluno2\Downloads\Teste\Aula 1\Leilao\Leilao\obj\Debug\Leilao.csprojAsse
 C:\Users\aluno2\Downloads\Teste\Aula 1\Leilao\Leilao\obj\Debug\Leilao.csproj.CoreCompileInputs.cache
 C:\Users\aluno2\Downloads\Teste\Aula 1\Leilao\Leilao\obj\Debug\Leilao.exe
 C:\Users\aluno2\Downloads\Teste\Aula 1\Leilao\Leilao\obj\Debug\Leilao.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Qualidade e Teste de Software\Aula 1\Leilao\Leilao\bin\Debug\Leilao.exe.config
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Qualidade e Teste de Software\Aula 1\Leilao\Leilao\bin\Debug\Leilao.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Qualidade e Teste de Software\Aula 1\Leilao\Leilao\bin\Debug\Leilao.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Qualidade e Teste de Software\Aula 1\Leilao\Leilao\obj\Debug\Leilao.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Qualidade e Teste de Software\Aula 1\Leilao\Leilao\obj\Debug\Leilao.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Qualidade e Teste de Software\Aula 1\Leilao\Leilao\obj\Debug\Leilao.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Qualidade e Teste de Software\Aula 1\Leilao\Leilao\obj\Debug\Leilao.pdb
